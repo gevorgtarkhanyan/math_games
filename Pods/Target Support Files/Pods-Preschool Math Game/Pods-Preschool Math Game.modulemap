@@ -1,0 +1,6 @@
+framework module Pods_Preschool_Math_Game {
+  umbrella header "Pods-Preschool Math Game-umbrella.h"
+
+  export *
+  module * { export * }
+}

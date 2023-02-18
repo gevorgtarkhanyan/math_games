@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C2B3F556-D5C8-47B5-8386-80C744C1FE4A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4A37EBC-F822-48D4-AC15-C207E061EC87"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Preschool Math Game/Controllers/BaseViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "606"
+            endingLineNumber = "606"
+            landmarkName = "fourOrMoreButtonPanGesture(gesture:gamesLimit:resultSpace:finalCount:firstView:secondView:gamesType:containerView:imageView:imageCollection:stackViewCollection:gamesTypeForLimit:viewCollection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E4A37EBC-F822-48D4-AC15-C207E061EC87 - 2ff42844c6bd6dfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #9 (__C.NSTimer) -&gt; () in Preschool_Math_Game.BaseViewController.fourOrMoreButtonPanGesture(gesture: __C.UIPanGestureRecognizer, gamesLimit: Swift.Int, resultSpace: __C.UIImageView, finalCount: Swift.Int, firstView: __C.UIImageView, secondView: __C.UIImageView, gamesType: Swift.String, containerView: __C.UIView, imageView: __C.UIImageView, imageCollection: Swift.Array&lt;__C.UIImageView&gt;, stackViewCollection: Swift.Array&lt;__C.UIStackView&gt;, gamesTypeForLimit: Swift.String, viewCollection: Swift.Array&lt;__C.UIView&gt;) -&gt; ()"
+                  moduleName = "Preschool Math Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gevorgtarkhanyan/Desktop/proects/pre_mathgame1_ios/Preschool%20Math%20Game/Controllers/BaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "606"
+                  endingLineNumber = "606"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "E4A37EBC-F822-48D4-AC15-C207E061EC87 - db5303741b8154eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIButton) -&gt; () in closure #9 (__C.NSTimer) -&gt; () in Preschool_Math_Game.BaseViewController.fourOrMoreButtonPanGesture(gesture: __C.UIPanGestureRecognizer, gamesLimit: Swift.Int, resultSpace: __C.UIImageView, finalCount: Swift.Int, firstView: __C.UIImageView, secondView: __C.UIImageView, gamesType: Swift.String, containerView: __C.UIView, imageView: __C.UIImageView, imageCollection: Swift.Array&lt;__C.UIImageView&gt;, stackViewCollection: Swift.Array&lt;__C.UIStackView&gt;, gamesTypeForLimit: Swift.String, viewCollection: Swift.Array&lt;__C.UIView&gt;) -&gt; ()"
+                  moduleName = "Preschool Math Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gevorgtarkhanyan/Desktop/proects/pre_mathgame1_ios/Preschool%20Math%20Game/Controllers/BaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "606"
+                  endingLineNumber = "606"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34CBE21C-7057-46EB-AA94-9059F1454E12"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Preschool Math Game/Controllers/BaseViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "594"
+            endingLineNumber = "594"
+            landmarkName = "fourOrMoreButtonPanGesture(gesture:gamesLimit:resultSpace:finalCount:firstView:secondView:gamesType:containerView:imageView:imageCollection:stackViewCollection:gamesTypeForLimit:viewCollection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

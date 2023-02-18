@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>761277761216-k1rkj5kj37dar82ifjtruac15dqifqt9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.761277761216-k1rkj5kj37dar82ifjtruac15dqifqt9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBA23o0lBBaFUyaZIAgjx1cTO136lqk-rk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>761277761216</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.witplex.PreSchoolMath</string>
+	<key>PROJECT_ID</key>
+	<string>preschoolmathgame</string>
+	<key>STORAGE_BUCKET</key>
+	<string>preschoolmathgame.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:761277761216:ios:85785149403202236f8f25</string>
+	<key>DATABASE_URL</key>
+	<string>https://preschoolmathgame.firebaseio.com</string>
+</dict>
+</plist>

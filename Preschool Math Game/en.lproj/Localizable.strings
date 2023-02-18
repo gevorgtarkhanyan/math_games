@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Preschool Math Game
+
+  Created by Gago Mkrtchyan on 06.07.21.
+  
+*/
+
+"rate_Us" = "Rate Us";
+"share" = "Share";
+"settings" = "Settings";
+
+"subscriptionInfo" = "After the  purchase your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Payment will be charged to App Store Account at confirmation of purchase. Your account will be charged for renewal within 24-hours prior to the end of the current period and identify the cost of the renewal. Subscriptions can be managed and canceled from Account Settings after purchase.";
